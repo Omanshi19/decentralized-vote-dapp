@@ -58,7 +58,7 @@ Users interact with the system through a web-based frontend connected to MetaMas
 
 ---
 
-## Prerequisites
+## Prerequisites 
 
 - Node.js and npm installed  
 - Truffle Suite installed globally (`npm install -g truffle`)  
