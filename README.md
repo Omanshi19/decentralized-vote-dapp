@@ -1,7 +1,7 @@
 # Decentralized Vote DApp 🗳️
 
 A decentralized voting platform built on the Ethereum blockchain to enable transparent, tamper‑resistant, and unbiased elections. Voters authenticate using their Ethereum wallets and can securely cast exactly one vote for their preferred candidate, with all ballots recorded immutably on-chain.
- 
+  
 ---  
     
 ## Problem Statement  
