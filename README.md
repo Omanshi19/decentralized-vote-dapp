@@ -67,3 +67,15 @@ Users interact with the system through a web-based frontend connected to MetaMas
 
 ---
 
+## Future Enhancements
+
+- End-to-end encryption and/or privacy-preserving voting (e.g., zero-knowledge proofs).  
+- Multi-election support with configurable parameters (start/end time, constituencies).  
+- Role-based access control for election administrators.  
+- Deployment to public Ethereum testnets (e.g., Sepolia) and integration with IPFS for persistent metadata.
+
+---
+
+## Disclaimer
+
+This project is intended for educational and prototyping purposes. It does not constitute a production-ready electoral system and should be thoroughly audited and tested before any real-world use.
