@@ -4,7 +4,7 @@ A decentralized voting platform built on the Ethereum blockchain to enable trans
    
 ---   
        
-## Problem Statement  
+## Problem Statement   
 
 Traditional electronic and paper-based voting systems are vulnerable to fraud, manipulation, and lack of transparency. Issues such as fake votes, vote tampering, unauthorized access, and opaque counting processes can undermine public trust in election outcomes. In many systems, citizens have limited ability to independently verify whether their vote was recorded and counted correctly, and centralized authorities become single points of failure or control.
 
